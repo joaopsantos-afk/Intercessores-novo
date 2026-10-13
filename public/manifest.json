@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "Ave-Marias · Grupo de Intercessão",
+  "short_name": "Ave-Marias",
+  "description": "Gerenciamento semanal das Ave-Marias dos intercessores, escalas e integração WhatsApp.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FBF9F5",
+  "theme_color": "#233529",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

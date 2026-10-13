@@ -1,0 +1,7 @@
+{
+  "name": "Ave-Marias · Grupo de Intercessão",
+  "description": "Aplicativo para gerenciamento semanal das Ave-Marias dos intercessores, acompanhamento de metas, histórico e integração com WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
